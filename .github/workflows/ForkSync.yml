@@ -16,3 +16,4 @@ jobs:
           owner: ZigmundRat
           base: master
           head: master
+          max_attempts: 2
